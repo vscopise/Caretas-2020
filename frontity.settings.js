@@ -9,7 +9,8 @@ const settings = {
   },
   "packages": [
     {
-      "name": "@frontity/mars-theme",
+      //"name": "@frontity/mars-theme",
+      "name": "caretas2020-theme",
       "state": {
         "theme": {
           "menu": [

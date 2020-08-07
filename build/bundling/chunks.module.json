@@ -1,0 +1,129 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.1",
+  "hash": "a61aadb34a43a023f400",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\Usuario\\Documents\\Frontity\\caretas-2020\\build\\static",
+  "assetsByChunkName": {
+    "caretas-2020": [
+      "caretas-2020.module.js",
+      "caretas-2020.388941636085d8e6232d.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "388941636085d8e6232d.hot-update.json",
+      "size": 54,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "caretas-2020.388941636085d8e6232d.hot-update.js",
+      "size": 12980,
+      "chunks": [
+        "caretas-2020"
+      ],
+      "chunkNames": [
+        "caretas-2020"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "caretas-2020.module.js",
+      "size": 8314822,
+      "chunks": [
+        "caretas-2020"
+      ],
+      "chunkNames": [
+        "caretas-2020"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Oswald-Medium.ttf",
+      "size": 91648,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/PTSerif-Bold.ttf",
+      "size": 195776,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/PTSerif-BoldItalic.ttf",
+      "size": 193272,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/PTSerif-Italic.ttf",
+      "size": 231828,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/PTSerif-Regular.ttf",
+      "size": 215096,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "caretas-2020": {
+      "chunks": [
+        "caretas-2020"
+      ],
+      "assets": [
+        "caretas-2020.module.js",
+        "caretas-2020.388941636085d8e6232d.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "caretas-2020": {
+      "chunks": [
+        "caretas-2020"
+      ],
+      "assets": [
+        "caretas-2020.module.js",
+        "caretas-2020.388941636085d8e6232d.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
